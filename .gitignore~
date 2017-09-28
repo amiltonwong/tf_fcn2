@@ -1,4 +1,3 @@
 output/
 predictions/
-bk/
 vgg16.npy
